@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/602
     wikipedia: http://en.wikipedia.org/wiki/Jane_Addams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15221#A-New-Conscience-and-an-Ancient-Evil
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-03-01'
 gutenberg_type: Text
